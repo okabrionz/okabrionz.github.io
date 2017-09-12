@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oka bRionZ</title>
-    <link>https://www.okabrionz.com/</link>
+    <link>https://okabrionz.github.io/</link>
     <description>Recent content on Oka bRionZ</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 13 Sep 2017 02:49:42 +0700</lastBuildDate>
     
-	<atom:link href="https://www.okabrionz.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://okabrionz.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome</title>
-      <link>https://www.okabrionz.com/post/welcome/</link>
+      <link>https://okabrionz.github.io/post/welcome/</link>
       <pubDate>Wed, 13 Sep 2017 02:49:42 +0700</pubDate>
       
-      <guid>https://www.okabrionz.com/post/welcome/</guid>
+      <guid>https://okabrionz.github.io/post/welcome/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in condimentum libero, at euismod enim. In sit amet venenatis odio, in dictum massa. Maecenas ut erat a metus molestie maximus. Nulla id purus id turpis blandit luctus non in neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id eleifend augue. Nulla eu metus accumsan, congue dolor vel, pellentesque nisl. Mauris porttitor ut ante id interdum. Integer sit amet nibh ut dolor sollicitudin viverra quis at arcu.</description>
     </item>
     
